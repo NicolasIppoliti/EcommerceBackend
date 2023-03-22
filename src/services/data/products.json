@@ -1,0 +1,28 @@
+[
+	{
+		"title": "Productoprueba1",
+		"description": "description Productoprueba1",
+		"code": "codigoprueba",
+		"price": 10000,
+		"status": true,
+		"stock": 10,
+		"category": "categoryPrueba",
+		"thumbnail": [
+			"http://th.bing.com/th/id/R.5d196fff785d9aebd96e701ad522ad52?rik=nItF5CiNg0Wgyg&pid=ImgRaw&r=0"
+		],
+		"id": 10
+	},
+	{
+		"title": "Productoprueba2",
+		"description": "description Productoprueba2",
+		"code": "codigoprueba2",
+		"price": 10000,
+		"status": true,
+		"stock": 10,
+		"category": "categoryPrueba2",
+		"thumbnail": [
+			"http://th.bing.com/th/id/R.5d196fff785d9aebd96e701ad522ad52?rik=nItF5CiNg0Wgyg&pid=ImgRaw&r=0"
+		],
+		"id": 12
+	}
+]
